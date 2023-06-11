@@ -1,4 +1,4 @@
-# Repo para EIEC - DevOps - UNIR
+# Repo para CI/CD - EIEC - DevOps - UNIR
 
 Este repositorio incluye un proyecto sencillo para demostrar los conceptos de pruebas unitarias, pruebas de servicio o de API y pruebas E2E o de GUI. El objetivo es que el alumno entienda estos conceptos, por lo que el código y la estructura del proyecto son especialmente sencillos.
 
